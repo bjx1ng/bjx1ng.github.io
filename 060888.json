@@ -27,7 +27,8 @@
 {"key":"csp_xpath_huya","name":"虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bjx1ng.github.io/json/虎牙.json"},
 {"key":"csp_biubiu_斗鱼","name":"斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://bjx1ng.github.io/json/斗鱼.json"},
 {"key":"csp_XPath_猫群首发","name":"哔嘀","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/519-bidi.json"},
-{"key":"LIBVIO","name":"LIBVIO","type":3,"api":"LIBVIO","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://bjx1ng.github.io/json/LIBVIO.json"},
+{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://bjx1ng.github.io/json/LIBVIO.json"},
+{"key":"csp_biubiu_COKEMV","name":"COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://bjx1ng.github.io/json/斗鱼.jsonCOKEMV.json"},
 
 
 
