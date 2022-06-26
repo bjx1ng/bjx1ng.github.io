@@ -14,8 +14,6 @@
 {"key": "csp_Zxzj"       ,"name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},  
 {"key": "csp_DiDuan"     ,"name":"🐞低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_DY1990"     ,"name":"🐞九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_Auete"      ,"name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Cokemv"     ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Qicui"      ,"name":"🐞奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "csp_GitCafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},  
 {"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
@@ -23,22 +21,18 @@
 {"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "360_spider"     ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key": "csp_LiteApple"  ,"name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_PHP_WMKK"    ,"name":"🛴完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 
 //{"key":"csp_xpath_huya","name":"虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g2.pub/link/m/json/huya2.json"},
 {"key":"csp_xpath_huya","name":"虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bjx1ng.github.io/json/虎牙.json"},
 {"key":"csp_biubiu_斗鱼","name":"斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://bjx1ng.github.io/json/斗鱼.json"},
-{"key":"csp_xpath_网络搜集源03","name":"在线","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"},
 {"key":"csp_XPath_猫群首发","name":"哔嘀","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/519-bidi.json"},
 {"key": "Libvio","name": "🐼Libvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 
 {"key": "csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "csp_n0ys","name":"1090影视(sp)","type":3,"api":"csp_n0ys","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "spider_Ikan","name":"爱看(sp)","type":3,"api":"spider_Ikan","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
