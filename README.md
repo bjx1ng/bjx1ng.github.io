@@ -1,1 +1,1 @@
-https://github.com/bjx1ng/bjx1ng.github.io/blob/main/060888.json
+https://bjx1ng.github.io/060888.json
