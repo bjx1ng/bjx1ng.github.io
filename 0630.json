@@ -1,5 +1,3 @@
-
-// 配置地址 --> clan://localhost/TVBox/0630.json
 {
 "spider":"http://bjx1ng.github.io/0625.jar",
 
@@ -25,7 +23,7 @@
 
 
 
-
+],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
