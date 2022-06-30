@@ -31,7 +31,7 @@
 {"key":"csp_PHP_WMKK"    ,"name":"🛴完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 //
 {"key":"csp_biubiu_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.244.195/tvmovie/0627/sub/biubiu/斗鱼.json"},
-
+{"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 
 {"key": "___xmf哔","name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://bjx1ng.github.io/json/bidi.json"},
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://bjx1ng.github.io/json/LIBVIO.json"},
