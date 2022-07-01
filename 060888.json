@@ -4,6 +4,20 @@
 //"spider":"http://bjx1ng.github.io/0625.txt;md5;065C92F7720FA01E64086455D201CFE1",
 
 
+
+{"Home": [ 
+{"key":"APP","title":"首页","pic":"https://epg.112114.xyz/bingimg"}, 
+{"key":"网页","title":"自定义","pic":"https://pic1.zhimg.com/v2-0863b14a3c54722f95148cb536ce49b0_b.jpg"}, 
+{"key":"采集","title":"采集站","pic":"https://pic1.zhimg.com/v2-1c7efe59fc035c67db278cb37c1908ac_b.jpg"}, 
+{"key":"直播","title":"电视直播","pic":"https://pic4.zhimg.com/v2-ba98dc3c31c891a9d69ccbf45b07a107_b.jpg"}, 
+{"key":"历史","title":"历史记录","pic":"https://pic4.zhimg.com/v2-544a06af71a0de850ae21432d277f5cf_b.jpg"}, 
+{"key":"收藏","title":"我的收藏","pic":"https://pic3.zhimg.com/v2-71daae9a4aef25ce7a01606571b2365a_b.jpg"}, 
+{"key":"推送","title":"远程推送","pic":"https://pic3.zhimg.com/v2-f9cad62fcd47b79e7345f2bcf49b281e_b.jpg"}, 
+{"key":"待添加","title":"待添加","pic":"https://pic1.zhimg.com/v2-e77da20418dc6cf1b534ac030705a6fc_b.jpg"} 
+],
+
+
+
 "sites":[
 
 
