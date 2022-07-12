@@ -44,9 +44,8 @@
 {"key":"csp_xpath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://bjx1ng.github.io/json/huya.json"},
 {"key":"csp_xpath_huyag","name":"🦊虎牙G","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bjx1ng.github.io/json/huya2.json"},
 //{"key": "csp_BBB","name":"哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "csp_BBB"        ,"name":"哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://bjx1ng.github.io/json/bili.json"},
+{"key": "csp_BBB","name":"哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://bjx1ng.github.io/json/bili.json"},
 
-{"key":"csp_appysv2_9e国语","name":"9E国语(ysv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 
 
 
